@@ -1,2 +1,6 @@
 Flask
 wikipedia
+gTTS
+SpeechRecognition
+pyttsx3
+pyaudio
